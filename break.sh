@@ -2,7 +2,7 @@
 
 #!/bin/bash
 
-# 通过使用 while 循环配合 break 进行循环控制
+# 通过使用 while 循环和 case 配合 break 进行循环控制
 
 while true; do
 echo "On which topic do you want advice?"
